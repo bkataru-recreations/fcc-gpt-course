@@ -1,0 +1,9 @@
+wizard_of_oz.txt
+
+openwebtext/
+train_split.txt
+val_split.txt
+vocab.txt
+
+*.pth
+*.pkl
